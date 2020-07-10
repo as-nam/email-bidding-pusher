@@ -1,0 +1,6 @@
+node_modules
+output_for_email_bidding.rar
+yarn.lock
+.idea
+.vscode
+reports
